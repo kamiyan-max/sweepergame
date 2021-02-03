@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">straypoo</string>
+    <string name="action_settings" />
+    <string name="time">Time</string>
+    <string name="androids_left">Androids Left:</string>
+    <string name="restart">Restart</string>
+    <string name="_0_00">0:00</string>
+    <string name="best">Best</string>
+</resources>
